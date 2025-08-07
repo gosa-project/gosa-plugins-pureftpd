@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-01 16:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:6
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:9
+msgid "FTP account"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:9
+msgid "FTP configuration"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:16
+msgid "Bandwith settings"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:20
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:18
+msgid "Bandwidth"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:24
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:23
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:200
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:282
+msgid "Upload bandwidth"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:30
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:40
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:23
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:30
+msgid "KB/s"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:34
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:30
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:203
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:283
+msgid "Download bandwidth"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:50
+msgid "Quota settings"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:54
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:36
+msgid "Quota"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:58
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:41
+msgid "Files"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:67
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:48
+msgid "Size"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:73
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:48
+msgid "MB"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:81
+msgid "Ratio settings"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:85
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:56
+msgid "Ratio"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:89
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:62
+msgid "Uploaded / downloaded files"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:105
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:109
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:75
+msgid "Miscellaneous"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:115
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:80
+msgid "Check to disable FTP Access"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/classic/pureftpd.tpl:117
+#: src/personal/connectivity/pureftpd/default/pureftpd.tpl:81
+msgid "Temporary disable FTP access"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:148
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:244
+msgid "LDAP error"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:207
+msgid "Quota file"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:210
+msgid "Quota size"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:213
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:279
+msgid "Upload ratio"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:216
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:281
+msgid "Download ratio"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:264
+msgid "FTP"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:265
+msgid "Pure-FTPd account"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:265
+msgid "Connectivity add-on"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:269
+msgid "My account"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:278
+msgid "Quota files"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:280
+msgid "Quota megabytes"
+msgstr ""
+
+#: src/personal/connectivity/pureftpd/PureftpdAccount.php:284
+msgid "Status"
+msgstr ""

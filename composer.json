@@ -1,0 +1,36 @@
+{
+    "name": "gonicus/gosa2-plugin-pureftpd",
+    "description": "PureFTPD connectivity plugin",
+    "type": "library",
+    "license": [
+        "GPL-2.0-or-later"
+    ],
+    "autoload": {
+        "psr-4": {
+            "GosaPureftpd\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Cajus Pollmeier",
+            "email": "pollmeier@gonicus.de",
+            "homepage": "https://www.gonicus.de"
+        },
+        {
+            "name": "Benjamin Zapiec",
+            "email": "zapiec@gonicus.de",
+            "homepage": "https://www.gonicus.de"
+        },
+        {
+            "name": "Lennard Rischen",
+            "email": "lennard.rischen@gonicus.de",
+            "homepage": "https://www.gonicus.de"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
